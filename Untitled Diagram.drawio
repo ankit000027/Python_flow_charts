@@ -1,9 +1,146 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36" version="29.1.1">
   <diagram name="Page-1" id="9TOAvRtYo1JyMkVzyn3Q">
-    <mxGraphModel>
+    <mxGraphModel dx="1665" dy="823" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="bReVXmRzcjIVdtry6erU-8" edge="1" parent="1" source="bReVXmRzcjIVdtry6erU-3" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;endArrow=none;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="bReVXmRzcjIVdtry6erU-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <UserObject label="encrypt or decrypt&amp;nbsp; alphabet&lt;div&gt;&lt;br&gt;&lt;/div&gt;" treeRoot="1" id="bReVXmRzcjIVdtry6erU-3">
+          <mxCell parent="1" style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1">
+            <mxGeometry height="60" width="120" x="340" y="10" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="bReVXmRzcjIVdtry6erU-31" edge="1" parent="1" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;endArrow=none;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" target="bReVXmRzcjIVdtry6erU-30">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="540" y="310" as="sourcePoint" />
+            <mxPoint x="503.03999999999996" y="381.02" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <UserObject label="decryption" treeRoot="1" id="bReVXmRzcjIVdtry6erU-4">
+          <mxCell parent="1" style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1">
+            <mxGeometry height="60" width="120" x="540" y="280" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="bReVXmRzcjIVdtry6erU-32" edge="1" parent="1" source="bReVXmRzcjIVdtry6erU-5" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;endArrow=none;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="bReVXmRzcjIVdtry6erU-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <UserObject label="encryption" treeRoot="1" id="bReVXmRzcjIVdtry6erU-5">
+          <mxCell parent="1" style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1">
+            <mxGeometry height="60" width="120" x="130" y="270" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="take input from user.&lt;div&gt;Wants to encrypt or decrypt&lt;/div&gt;" treeRoot="1" id="bReVXmRzcjIVdtry6erU-6">
+          <mxCell parent="1" style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1">
+            <mxGeometry height="60" width="120" x="340" y="180" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="already has a list with alphabet a-z" treeRoot="1" id="bReVXmRzcjIVdtry6erU-7">
+          <mxCell parent="1" style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1">
+            <mxGeometry height="60" width="120" x="90" y="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="bReVXmRzcjIVdtry6erU-40" edge="1" parent="1" source="bReVXmRzcjIVdtry6erU-13" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;endArrow=none;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" target="bReVXmRzcjIVdtry6erU-39">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bReVXmRzcjIVdtry6erU-43" edge="1" parent="1" source="bReVXmRzcjIVdtry6erU-13" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;endArrow=none;exitX=0.75;exitY=1;exitDx=0;exitDy=0;">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="180" y="650" />
+            </Array>
+            <mxPoint x="360" y="660" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <UserObject label="shift each letter according to the shifting value given&amp;nbsp;" treeRoot="1" id="bReVXmRzcjIVdtry6erU-13">
+          <mxCell parent="1" style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1">
+            <mxGeometry height="60" width="120" x="60" y="500" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="bReVXmRzcjIVdtry6erU-24" edge="1" parent="1" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;endArrow=none;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" target="bReVXmRzcjIVdtry6erU-4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="460" y="210" as="sourcePoint" />
+            <mxPoint x="660" y="370" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bReVXmRzcjIVdtry6erU-29" connectable="0" parent="bReVXmRzcjIVdtry6erU-24" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="decrypt" vertex="1">
+          <mxGeometry relative="1" x="-0.1917" y="-1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bReVXmRzcjIVdtry6erU-26" edge="1" parent="1" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;endArrow=none;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.367;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" target="bReVXmRzcjIVdtry6erU-5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="340" y="210" as="sourcePoint" />
+            <mxPoint x="160" y="360" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bReVXmRzcjIVdtry6erU-28" connectable="0" parent="bReVXmRzcjIVdtry6erU-26" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="encrypt" vertex="1">
+          <mxGeometry relative="1" x="0.1329" y="-1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bReVXmRzcjIVdtry6erU-36" edge="1" parent="1" source="bReVXmRzcjIVdtry6erU-14" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;endArrow=none;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="bReVXmRzcjIVdtry6erU-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <UserObject label="make 2 functions" treeRoot="1" id="bReVXmRzcjIVdtry6erU-14">
+          <mxCell parent="1" style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1">
+            <mxGeometry height="60" width="120" x="340" y="90" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="bReVXmRzcjIVdtry6erU-21" edge="1" parent="1" source="bReVXmRzcjIVdtry6erU-15" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;endArrow=none;exitX=0;exitY=0.75;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="bReVXmRzcjIVdtry6erU-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <UserObject label="Ask for the encrypting text and&amp;nbsp; letter shifting value" treeRoot="1" id="bReVXmRzcjIVdtry6erU-15">
+          <mxCell parent="1" style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1">
+            <mxGeometry height="60" width="120" x="230" y="400" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="bReVXmRzcjIVdtry6erU-34" edge="1" parent="1" source="bReVXmRzcjIVdtry6erU-30" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;endArrow=none;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" target="bReVXmRzcjIVdtry6erU-33">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="620" y="530" />
+              <mxPoint x="610" y="520" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <UserObject label="Ask for the decryption text and letter shifted value" treeRoot="1" id="bReVXmRzcjIVdtry6erU-30">
+          <mxCell parent="1" style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1">
+            <mxGeometry height="60" width="120" x="480" y="400" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="bReVXmRzcjIVdtry6erU-41" edge="1" parent="1" source="bReVXmRzcjIVdtry6erU-33" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;endArrow=none;exitX=0;exitY=0.75;exitDx=0;exitDy=0;entryX=1;entryY=0.75;entryDx=0;entryDy=0;" target="bReVXmRzcjIVdtry6erU-39">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bReVXmRzcjIVdtry6erU-42" edge="1" parent="1" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;endArrow=none;exitX=0.25;exitY=1;exitDx=0;exitDy=0;">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="650" y="640" />
+            </Array>
+            <mxPoint x="665" y="560" as="sourcePoint" />
+            <mxPoint x="485" y="660" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <UserObject label="shift back each letter according to the shifted value" treeRoot="1" id="bReVXmRzcjIVdtry6erU-33">
+          <mxCell parent="1" style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1">
+            <mxGeometry height="60" width="120" x="640" y="500" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="bReVXmRzcjIVdtry6erU-35" edge="1" parent="1" source="bReVXmRzcjIVdtry6erU-3" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="bReVXmRzcjIVdtry6erU-14" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="400" y="330" as="sourcePoint" />
+            <mxPoint x="450" y="280" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <UserObject label="Give the output" treeRoot="1" id="bReVXmRzcjIVdtry6erU-38">
+          <mxCell parent="1" style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1">
+            <mxGeometry height="60" width="120" x="365" y="640" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="will be done according to the a-z list. (using index)" treeRoot="1" id="bReVXmRzcjIVdtry6erU-39">
+          <mxCell parent="1" style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1">
+            <mxGeometry height="60" width="120" x="360" y="540" as="geometry" />
+          </mxCell>
+        </UserObject>
       </root>
     </mxGraphModel>
   </diagram>
